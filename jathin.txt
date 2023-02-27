@@ -1,1 +1,2 @@
 welcome to git
+good afternoon, it is jathin.txt file
